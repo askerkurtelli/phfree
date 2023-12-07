@@ -1,4 +1,4 @@
-# PhFree (phfree.info)
+# PhFree
 
 Funded UK PhD opportunities are tough to find. PhFree makes it (pretty) quick and easy, without having to trail through ads.
 

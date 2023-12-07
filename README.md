@@ -1,6 +1,6 @@
 # PhFree
 
-Funded UK PhD opportunities are tough to find. PhFree makes it (pretty) quick and easy, without having to trail through ads. <href=https://youtu.be/YZWEAEcioQg>Video here!</href>
+Funded UK PhD opportunities are tough to find. PhFree makes it (pretty) quick and easy, without having to trail through ads. [![Watch the video](https://img.youtube.com/vi/YZWEAEcioQg/default.jpg)](https://youtu.be/YZWEAEcioQg)
 
 ## Project Summary
 
